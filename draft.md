@@ -1,0 +1,17 @@
+How does information technology change education?
+
+IT,  shorted for information technology has been developing rapidly since the early 21st century. There are lots of concepts born in the information evolution, such as Internet plus, big data, cloud computing, artificial intelligence, virtual reality, augmented reality and
+ so on, which lead to human’s lifestyle subversive, including education which is related to us. My topic today is to discuss how does IT change education. 
+
+The education mode transformation can be divided into four phases generally. 
+
+Of course, the first phase is traditional mode. The teacher and students are subjects of the education process. Traditional teaching mode is teacher-centered. a teacher standing on the stage speaking, and students sitting there listening. 
+
+The second one is online education. With the Internet hitting the world, combining education with internet was a trend. In 2011, three courses from Stanford University were put on the Internet. One of them is the machine learning course given by Dr Ng Andrew. It was very surprising that more than 100 thousand students from all over the world enrolled this class. And Dr Ng Andrew has only four hundred students in Stanford each year. It means without the internet, he needs to work at least 250 years to have as many students as he did with Internet. It’s the beginning of online education. Then he created a website named coursera, which is very famous online education. And then, some online class platforms become popular such as Netease cloud classroom and so on.
+
+The next phase is AI combined. Recently , artificial intelligence has been very hot. Everything wants to combine with AI to be boosted, education, too. AI can help education to be more individualized. The computer analyze your learning data then recommend classes or learning map most suitable for you with AI. Besides online judge for exercises is possible. There is an app named liulishuo focused on American English accent practicing. It has collected a very large voice library from their user. When another piece of voice input, the app analyzes and judge whether you say every word correct and standard. If not, sign it red. And your voice will be added in to the voice library to make it more efficient and accurate. Rather than we have speaking classes half and an hour a week, it’s hard for our dear teacher to correct for us one by one, you can open the app and start to practice whenever and wherever and get voice corrected right now. Isn’t it more efficient?
+
+In my opinion, the next IT achievements to combine with education are VR and AR, VR can simulate a classroom virtually. Even you are at home or some other places, once you where VR glasses, you see the teacher standing before you like real. AR add more interactions between virtual world and real world. All these technologies will help us not to come at a real classroom
+Necessarily but can enjoy the class wherever you like.
+
+IT change education a lot. Excellent teacher and classes will be shared by students all over the world. Geographic barriers are overcome. Students in different learning situation will be treated differently. A totally new education mode is coming.
